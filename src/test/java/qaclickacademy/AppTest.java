@@ -26,6 +26,7 @@ public class AppTest
     public static Test suitte()
     {
         return new TestSuite( AppTest.class );
+        //new comment from person 2
         
     }
 
