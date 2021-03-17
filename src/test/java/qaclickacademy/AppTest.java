@@ -23,16 +23,18 @@ public class AppTest
     /**
      * @return the suite of tests being tested
      */
-    public static Test suite()
+    public static Test suitte()
     {
         return new TestSuite( AppTest.class );
+        
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigourous Test jkj:-)
      */
     public void testApp()
     {
         assertTrue( true );
     }
+
 }
