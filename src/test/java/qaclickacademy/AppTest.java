@@ -27,6 +27,7 @@ public class AppTest
     {
         return new TestSuite( AppTest.class );
         //new comment from person 2
+        //and another comment after new branch Develop created
         
     }
 
